@@ -1,6 +1,6 @@
 body {
-    background-image: url("assets/img/04_Our-Burger_stack.jpg");
+    background-image: url("../img/burger.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    
+    background-size: 101%;
 }
